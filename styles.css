@@ -1,0 +1,13 @@
+
+.grid {
+    background-color: #c0c0c0;
+    height: 50px;
+    width: 80px;
+    border: 1px solid black;
+}
+
+/*
+.grid:hover {
+    background-color: red;
+}
+*/
